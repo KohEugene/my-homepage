@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "내 홈페이지",
-  description: "내 소개 페이지",
+  title: "eugene",
+  description: "만들고 배우는 걸 좋아하는 AI 탐색가입니다",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
